@@ -44,9 +44,10 @@
 
 .banner{
   background-image: url("./assets/banner1.jpg");
-  width: 80vw;
+  width: 72vw;
   height: 20vw;
   background-size: cover;
   background-position: center;
-  margin-bottom: 30px
+  margin: 20px auto;
+  
 }
